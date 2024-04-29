@@ -11,7 +11,7 @@ Data Lakes are repositories that store vast amounts of structured, semi-structur
 ## Setup and Installation
  1. Clone the repository
  ``` bash
- git clone https://github.com/your_username/DataLake-MetaHarvest.git
+ git clone https://github.com/NageshVk/Heterogeneous-Data-Metadata-Extraction-Framework-for-Data-Lake.git
 ```
 
 2. Install the required dependencies
@@ -29,7 +29,7 @@ python main.py
 2. Open main.py and customize the metadata extraction process based on your specific requirements, if necessary.
 3. Metadata files will be generated in the Data Lake/Metadata directory.
 
-# Example Usage
+### Example Usage
 ```python
 import Heterogeneous_Data_Metadata_Extraction_Framework_for_Data_Lake as hdme
 
