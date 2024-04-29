@@ -1,4 +1,4 @@
-# Heterogeneous-Data-Metadata-Extraction-Framework-for-Data-Lake
+# Heterogeneous Data Metadata Extraction Framework for-Data-Lake
 An comprehensive metadata extraction framework designed and implemented in Python. It efficiently extracts metadata from heterogeneous data sources within a Data Lake environment.
 
 ## Overview
