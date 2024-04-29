@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore metadata files
+Data Lake/Metadata/*.json
+
+# Ignore data files
+Data Lake/Data/*
