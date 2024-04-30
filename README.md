@@ -29,14 +29,14 @@ python main.py
 2. Open main.py and customize the metadata extraction process based on your specific requirements, if necessary.
 3. Metadata files will be generated in the Data Lake/Metadata directory.
 
-### Example Usage
+<!--- ### Example Usage
 ```python
 import Heterogeneous_Data_Metadata_Extraction_Framework_for_Data_Lake as hdme
 
 # Example code for metadata extraction
 metadata = hdme.extract_metadata('data_file.csv')
 print(metadata)
-```
+``` --->
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
